@@ -63,3 +63,19 @@
 .ccc{
     background: #b4b4b4 url('../img/carousel-3.jpg') no-repeat center center;
 }
+
+.c-title{
+    font-size: 50pt;
+}
+.c-prgh{
+    font-size: 30pt;
+}
+
+@media screen and (max-width: 480px) {
+    .c-title{
+        font-size: 20pt;
+    }
+    .c-prgh{
+        font-size: 10pt;
+    }
+}
